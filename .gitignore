@@ -77,3 +77,9 @@ GTAGS
 *.orig
 *~
 \#*#
+arch/arm/boot/compressed/lib1funcs.S
+arch/arm/boot/compressed/piggy.gzip
+arch/arm/boot/compressed/vmlinux
+arch/arm/configs/tisdk_dm814x-stib_defconfig
+scripts/genksyms/Module.symvers
+
